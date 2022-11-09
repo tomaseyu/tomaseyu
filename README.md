@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/tomaseyu">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tomaseyu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomaseyu&layout=compact&langs_count=7&theme=dark&show_icons=true"/>
+  <img height="180px" card_width="500px" src="https://github-readme-stats.vercel.app/api?username=tomaseyu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180epx" card_width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomaseyu&layout=compact&langs_count=7&theme=dark&show_icons=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Thomas-Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
