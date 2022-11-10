@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/tomaseyu">
-  <img height="150px" card_width="400px" src="https://github-readme-stats.vercel.app/api?username=tomaseyu&cache_seconds=7200&include_all_commits&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150px" card_width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomaseyu&cache_seconds=7200&include_all_commits&langs_count=5&theme=dark&show_icons=true"/>
+  <img height="150px" card_width="400px" src="https://github-readme-stats.vercel.app/api?username=tomaseyu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150px" card_width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomaseyu&langs_count=5&theme=dark&show_icons=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Thomas-Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
@@ -15,10 +15,11 @@
   <img align="center" alt="Thomas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thomas-cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
    <img align="center" alt="Thomas-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
-  
 </div>
-  
+
+##
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tomaseyu&hide_progress=false&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
   ##
  <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <div> 
@@ -31,5 +32,4 @@
 <a href="https://www.codingame.com/profile/f059b07035f5808091b158a487dbcc091341715" target="_blank"><img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white"></a> 
 <a href="https://www.freecodecamp.org/tomaseyu" target="_blank"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"></a> 
  
-  ![Snake animation](https://github.com/ThomasHartmannDev/ThomasHartmannDev/blob/output/github-contribution-grid-snake.svg) 
 </div>
