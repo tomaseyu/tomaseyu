@@ -8,6 +8,8 @@
   <a href="https://github.com/tomaseyu">
   <img height="150px" card_width="400px" src="https://github-readme-stats.vercel.app/api?username=tomaseyu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150px" card_width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomaseyu&langs_count=5&theme=dark&show_icons=true"/>
+  
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tomaseyu&hide_progress=false&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Thomas-Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
@@ -17,8 +19,6 @@
    <img align="center" alt="Thomas-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-##
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tomaseyu&hide_progress=false&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
   ##
  <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
