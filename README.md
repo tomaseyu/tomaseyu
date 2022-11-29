@@ -32,6 +32,7 @@
 <a href="https://www.freecodecamp.org/tomaseyu" target="_blank"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"></a>
 <a href="https://www.codecademy.com/profiles/tomaseyu" target="_blank"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"></a>
 <a href="https://www.duolingo.com/profile/tomaseyu" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"></a>
+<a href="https://learn.microsoft.com/en-us/users/thomasgourlay/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Learn-red?style=for-the-badge&logo=Microsoft&logoColor=white"></a>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
